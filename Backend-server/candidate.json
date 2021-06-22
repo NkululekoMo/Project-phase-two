@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "id": 20211,
+      "name": "Nkululeko Mokwena",
+      "email": "nkululekoena@gmail.com",
+      "post": "System Development"
+    },
+    {
+      "id": 20212,
+      "name": "Joy Machete",
+      "email": "Joy.Machete@yahoo.com",
+      "post": "Program Admin"
+    },
+    {
+      "id": 20213,
+      "name": "Clearance Morumudi",
+      "email": "clearancemorumudi@outlook.com",
+      "post": "Full Stack web development"
+    },
+    {
+      "id": 20214,
+      "name": "Sonia Maredi",
+      "email": "sonia.maredi@gmail.com",
+      "post": "Software Engineering"
+    },
+    {
+      "id": 20215,
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "post": "Software Development"
+    }
+  ]
+}
